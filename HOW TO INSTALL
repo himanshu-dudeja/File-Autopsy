@@ -1,0 +1,13 @@
+1. First of all copy this folder in your system (Must not be in the cd or Pendrive).
+
+2. Open a Terminal (Ctrl + T) and move to this Directory.
+
+3. Then Type This Command 
+	chmod 0777 install
+
+4. Then Type this
+	./install
+
+5. For the First time Your system must me connected to internet to download the required packages.
+
+6. After typing ./install then project will automatically run after few moments.

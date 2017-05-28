@@ -1,0 +1,5 @@
+sudo apt-get update
+sudo apt-get install figlet
+sudo apt-get install cowsay
+chmod 0777 a.out
+./a.out
